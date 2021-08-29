@@ -1,7 +1,102 @@
-# Example vanity.yaml
-
-host: gomodules.xyz
+host: kmodules.xyz
 
 paths:
-  /sync:
-    repo: https://github.com/gomodules/sync
+  /airgap:
+    repo: https://github.com/kmodules/airgap
+
+  /apiversion:
+    repo: https://github.com/kmodules/apiversion
+
+  /application-util:
+    repo: https://github.com/kmodules/application-util
+
+  /apply:
+    repo: https://github.com/kmodules/apply
+
+  /catalog-checker:
+    repo: https://github.com/kmodules/catalog-checker
+
+  /client-go:
+    repo: https://github.com/kmodules/client-go
+
+  /cert-manager-util:
+    repo: https://github.com/kmodules/cert-manager-util
+
+  /codespan-schema-checker:
+    repo: https://github.com/kmodules/codespan-schema-checker
+
+  # private module
+  /cluster-connector:
+    repo: https://github.com/kmodules/cluster-connector
+
+  /constants:
+    repo: https://github.com/kmodules/constants
+
+  /crd-importer:
+    repo: https://github.com/kmodules/crd-importer
+
+  /crd-schema-fuzz:
+    repo: https://github.com/kmodules/crd-schema-fuzz
+
+  /custom-resources:
+    repo: https://github.com/kmodules/custom-resources
+
+  /hostalias-generator:
+    repo: https://github.com/kmodules/hostalias-generator
+
+  /installer:
+    repo: https://github.com/kmodules/installer
+
+  /jsonpatch-gen:
+    repo: https://github.com/kmodules/jsonpatch-gen
+
+  /jsonpath:
+    repo: https://github.com/kmodules/jsonpath
+
+  /kustomizer:
+    repo: https://github.com/kmodules/kustomizer
+
+  /leaderelection:
+    repo: https://github.com/kmodules/leaderelection
+
+  /metrics-configuration-checker:
+    repo: https://github.com/kmodules/metrics-configuration-checker
+
+  /monitoring-agent-api:
+    repo: https://github.com/kmodules/monitoring-agent-api
+
+  /objectstore-api:
+    repo: https://github.com/kmodules/objectstore-api
+
+  /offshoot-api:
+    repo: https://github.com/kmodules/offshoot-api
+
+  /openshift:
+    repo: https://github.com/kmodules/openshift
+
+  /prober:
+    repo: https://github.com/kmodules/prober
+
+  /resource-metadata:
+    repo: https://github.com/kmodules/resource-metadata
+
+  /resource-metrics:
+    repo: https://github.com/kmodules/resource-metrics
+
+  /resource-validator:
+    repo: https://github.com/kmodules/resource-validator
+
+  /security-policy-api:
+    repo: https://github.com/kmodules/security-policy-api
+
+  /schema-checker:
+    repo: https://github.com/kmodules/schema-checker
+
+  /shared-informer:
+    repo: https://github.com/kmodules/shared-informer
+
+  /uibuilder-schema-checker:
+    repo: https://github.com/kmodules/uibuilder-schema-checker
+
+  /webhook-runtime:
+    repo: https://github.com/kmodules/webhook-runtime
