@@ -80,6 +80,9 @@ paths:
   /resource-metadata:
     repo: https://github.com/kmodules/resource-metadata
 
+  /resource-calculator:
+    repo: https://github.com/kmodules/resource-calculator
+
   /resource-metrics:
     repo: https://github.com/kmodules/resource-metrics
 
