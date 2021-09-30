@@ -41,6 +41,9 @@ paths:
   /custom-resources:
     repo: https://github.com/kmodules/custom-resources
 
+  /gen-crd-api-reference-docs:
+    repo: https://github.com/kmodules/gen-crd-api-reference-docs
+
   /hostalias-generator:
     repo: https://github.com/kmodules/hostalias-generator
 
