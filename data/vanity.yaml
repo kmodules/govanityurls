@@ -1,9 +1,6 @@
 host: kmodules.xyz
 
 paths:
-  /airgap:
-    repo: https://github.com/kmodules/airgap
-
   /apiversion:
     repo: https://github.com/kmodules/apiversion
 
