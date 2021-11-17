@@ -10,6 +10,9 @@ paths:
   /apply:
     repo: https://github.com/kmodules/apply
 
+  /authorizer:
+    repo: https://github.com/kmodules/authorizer
+
   /catalog-checker:
     repo: https://github.com/kmodules/catalog-checker
 
