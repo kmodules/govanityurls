@@ -95,6 +95,9 @@ paths:
   /security-policy-api:
     repo: https://github.com/kmodules/security-policy-api
 
+  /sets:
+    repo: https://github.com/kmodules/sets
+
   /schema-checker:
     repo: https://github.com/kmodules/schema-checker
 
