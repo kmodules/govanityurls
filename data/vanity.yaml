@@ -25,6 +25,9 @@ paths:
   /codespan-schema-checker:
     repo: https://github.com/kmodules/codespan-schema-checker
 
+  /column-generator:
+    repo: https://github.com/kmodules/column-generator
+
   # private module
   /cluster-connector:
     repo: https://github.com/kmodules/cluster-connector
