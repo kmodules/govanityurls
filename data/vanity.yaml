@@ -41,6 +41,9 @@ paths:
   /crd-schema-fuzz:
     repo: https://github.com/kmodules/crd-schema-fuzz
 
+  /csi-utils:
+    repo: https://github.com/kmodules/csi-utils
+
   /custom-resources:
     repo: https://github.com/kmodules/custom-resources
 
