@@ -50,6 +50,9 @@ paths:
   /gen-crd-api-reference-docs:
     repo: https://github.com/kmodules/gen-crd-api-reference-docs
 
+  /go-containerregistry:
+    repo: https://github.com/kmodules/go-containerregistry
+
   /hostalias-generator:
     repo: https://github.com/kmodules/hostalias-generator
 
