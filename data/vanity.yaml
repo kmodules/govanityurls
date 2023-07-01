@@ -28,6 +28,9 @@ paths:
   /column-generator:
     repo: https://github.com/kmodules/column-generator
 
+  /conditions:
+    repo: https://github.com/kmodules/conditions
+
   # private module
   /cluster-connector:
     repo: https://github.com/kmodules/cluster-connector
