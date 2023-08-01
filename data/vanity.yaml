@@ -121,3 +121,6 @@ paths:
 
   /webhook-runtime:
     repo: https://github.com/kmodules/webhook-runtime
+
+  /yamldiff:
+    repo: https://github.com/kmodules/yamldiff
