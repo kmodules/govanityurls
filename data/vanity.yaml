@@ -68,6 +68,9 @@ paths:
   /jsonpath:
     repo: https://github.com/kmodules/jsonpath
 
+  /kube-backup:
+    repo: https://github.com/kmodules/kube-backup
+
   /kustomizer:
     repo: https://github.com/kmodules/kustomizer
 
