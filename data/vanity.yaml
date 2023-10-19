@@ -56,6 +56,9 @@ paths:
   /go-containerregistry:
     repo: https://github.com/kmodules/go-containerregistry
 
+  /fake-apiserver:
+    repo: https://github.com/kmodules/fake-apiserver
+
   /hostalias-generator:
     repo: https://github.com/kmodules/hostalias-generator
 
