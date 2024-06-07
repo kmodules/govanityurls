@@ -106,6 +106,8 @@ paths:
 
   /resource-metrics:
     repo: https://github.com/kmodules/resource-metrics
+    versions:
+    - utils
 
   /resource-validator:
     repo: https://github.com/kmodules/resource-validator
