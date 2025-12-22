@@ -12,6 +12,8 @@ paths:
     repo: https://github.com/kmodules/catalog-checker
   /cert-manager-util:
     repo: https://github.com/kmodules/cert-manager-util
+  /chart-packer:
+    repo: https://github.com/kmodules/chart-packer
   /client-go:
     repo: https://github.com/kmodules/client-go
   /cluster-connector:
