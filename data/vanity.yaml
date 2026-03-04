@@ -78,6 +78,8 @@ paths:
     - utils
   /resource-validator:
     repo: https://github.com/kmodules/resource-validator
+  /role-aggregator:
+    repo: https://github.com/kmodules/role-aggregator
   /schema-checker:
     repo: https://github.com/kmodules/schema-checker
   /security-policy-api:
